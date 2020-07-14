@@ -8,7 +8,7 @@ There are numerous websites that can convert .woff files to .ttf (or any other f
 
 ## Preview
 
-![Preview](https://github.com/dvingerh/fontshop-dl-cs/blob/master/git-files/example.png?raw=true)
+![Preview](https://github.com/dvingerh/fontshop-dl-cs/blob/master/git-files/example.gif?raw=true)
 
 ## To-Do
 
